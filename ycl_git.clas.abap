@@ -8,6 +8,7 @@ protected section.
 private section.
 
   methods HELLO .
+  methods NEW_METHOD .
 ENDCLASS.
 
 
@@ -21,5 +22,9 @@ CLASS YCL_GIT IMPLEMENTATION.
 
 
  " a new line
+  endmethod.
+
+
+  method NEW_METHOD.
   endmethod.
 ENDCLASS.
