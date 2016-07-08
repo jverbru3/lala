@@ -17,7 +17,9 @@ CLASS YCL_GIT IMPLEMENTATION.
 
   method HELLO.
 
-    "just say hello
+    "just say hello and changed
 
+
+ " a new line
   endmethod.
 ENDCLASS.
